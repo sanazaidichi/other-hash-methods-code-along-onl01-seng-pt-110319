@@ -7,6 +7,7 @@ require 'pry'
 #  meat: ["chicken", "steak", "salmon"],
 #  grains: ["rice", "pasta"]
 # }
+#adding changes 
 
 groceries = {
   dairy: ["milk", "yogurt", "cheese"],
